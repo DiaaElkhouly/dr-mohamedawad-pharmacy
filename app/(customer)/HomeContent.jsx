@@ -69,7 +69,7 @@ function HomeContent({ initialProducts = [] }) {
       <div className="mb-8 rounded-2xl py-4 text-[#cc842a] text-center">
         <div className="text-center mb-6">
           <h1 className="text-4xl md:text-5xl font-extrabold mb-3 bg-gradient-to-r from-blue-600 to-teal-500 bg-clip-text text-transparent animate-fade-in -mt-4">
-            أهلا بك في صيديلة د/ محمد عواد
+            أهلا بك في صيدلية د/ محمد عواد
           </h1>
           <p className="text-gray-600 text-lg md:text-xl font-medium">
             رعايتك الصحية أولويتنا
