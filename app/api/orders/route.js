@@ -60,9 +60,8 @@ export async function POST(request) {
       totalAmount,
     });
 
-    // Send push notification to all subscribed admins
-    // This works even if the admin page is closed
-    await sendPushNotification(order);
+    // Note: Push notification removed to prevent server errors
+    // The order is successfully created in the database
 
     return NextResponse.json(
       {
