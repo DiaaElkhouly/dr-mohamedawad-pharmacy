@@ -1,0 +1,12 @@
+[
+  {
+    "id": "2026-01",
+    "month": 1,
+    "year": 2026,
+    "monthlySales": 905,
+    "monthlyOrders": 3,
+    "ordersCount": 3,
+    "archivedAt": "2026-02-20T12:46:36.968Z",
+    "manualTrigger": true
+  }
+]

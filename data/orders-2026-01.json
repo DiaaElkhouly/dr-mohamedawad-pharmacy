@@ -1,0 +1,144 @@
+[
+  {
+    "customerName": "ضياء احمد الخولى",
+    "phone": "01201449924",
+    "address": "لوجستك ٢ عمارة ٣٧ ",
+    "details": "",
+    "items": [
+      {
+        "id": "3",
+        "name": "ماسك شعر أرغان",
+        "nameEn": "Argan Hair Mask",
+        "price": 210,
+        "oldPrice": 250,
+        "category": "hair",
+        "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?w=400",
+        "description": "ماسك عميق الترطيب للشعر الجاف والمتقصف",
+        "inStock": true,
+        "stock": 25,
+        "rating": 4.3,
+        "reviews": 67,
+        "quantity": 1
+      },
+      {
+        "id": "2",
+        "name": "زيوت للشعر متعددة",
+        "nameEn": "Multi Hair Oil",
+        "price": 145,
+        "oldPrice": null,
+        "category": "hair",
+        "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=400",
+        "description": "زيت شعر طبيعي يغذي ويمنع التساقط",
+        "inStock": true,
+        "stock": 30,
+        "rating": 4.8,
+        "reviews": 95,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 355,
+    "id": "1771550284418",
+    "status": "pending",
+    "createdAt": "2026-02-20T01:18:04.418Z"
+  },
+  {
+    "customerName": "ضياء احمد عبد الرازق ",
+    "phone": "01201449924",
+    "address": "لوجستك ٢ عمارة ٣٧ ",
+    "details": "",
+    "items": [
+      {
+        "id": "1",
+        "name": "شامبو كير بروتين ",
+        "nameEn": "Keratin Protein Shampoo",
+        "price": 185,
+        "oldPrice": 220,
+        "category": "hair",
+        "image": "https://images.unsplash.com/photo-1585232351009-31338186ce39?w=400",
+        "description": "شامبو غني بالبروتين الطبيعة لترميم الشعر التالف",
+        "inStock": true,
+        "stock": 50,
+        "rating": 4.5,
+        "reviews": 128,
+        "quantity": 1
+      },
+      {
+        "id": "4",
+        "name": "كريم ترطيب لليد",
+        "nameEn": "Hand Moisturizing Cream",
+        "price": 95,
+        "oldPrice": 120,
+        "category": "skin",
+        "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400",
+        "description": "كريم ترطيب عميق لليد والقدمين",
+        "inStock": true,
+        "stock": 100,
+        "rating": 4.6,
+        "reviews": 210,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 280,
+    "id": "1771550566607",
+    "status": "pending",
+    "createdAt": "2026-02-20T01:22:46.607Z"
+  },
+  {
+    "customerName": "Diaa Elkhouly",
+    "phone": "01201449924",
+    "address": "لوجيستك ٢ عمارة ٣٧ ",
+    "details": "",
+    "items": [
+      {
+        "id": "1771531422230",
+        "name": "ماسك بالفحم ",
+        "nameEn": "",
+        "price": 50,
+        "oldPrice": 90,
+        "category": "hair",
+        "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?w=400",
+        "description": "",
+        "inStock": true,
+        "stock": 1,
+        "rating": 0,
+        "reviews": 0,
+        "createdAt": "2026-02-19T20:03:42.231Z",
+        "quantity": 1
+      },
+      {
+        "id": "4",
+        "name": "كريم ترطيب لليد",
+        "nameEn": "Hand Moisturizing Cream",
+        "price": 95,
+        "oldPrice": 120,
+        "category": "skin",
+        "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400",
+        "description": "كريم ترطيب عميق لليد والقدمين",
+        "inStock": true,
+        "stock": 100,
+        "rating": 4.6,
+        "reviews": 210,
+        "quantity": 1
+      },
+      {
+        "id": "6",
+        "name": "غسول للوجه",
+        "nameEn": "Face Wash",
+        "price": 125,
+        "oldPrice": null,
+        "category": "skin",
+        "image": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?w=400",
+        "description": "غسول وجه لطيف ينظف بعمق",
+        "inStock": true,
+        "stock": 60,
+        "rating": 4.4,
+        "reviews": 89,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 270,
+    "id": "1771550711782",
+    "status": "pending",
+    "createdAt": "2026-02-20T01:25:11.782Z"
+  }
+]

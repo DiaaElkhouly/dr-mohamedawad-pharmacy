@@ -1,0 +1,220 @@
+[
+  {
+    "customerName": "Diaa Elkhouly",
+    "phone": "01201449924",
+    "address": "Ashmun, Monofyia",
+    "details": "",
+    "items": [
+      {
+        "id": "1771531422230",
+        "name": "ماسك بالفحم ",
+        "nameEn": "",
+        "price": 50,
+        "oldPrice": 90,
+        "category": "hair",
+        "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?w=400",
+        "description": "",
+        "inStock": true,
+        "stock": 1,
+        "rating": 0,
+        "reviews": 0,
+        "createdAt": "2026-02-19T20:03:42.231Z",
+        "quantity": 1
+      },
+      {
+        "id": "2",
+        "name": "زيوت للشعر متعددة",
+        "nameEn": "Multi Hair Oil",
+        "price": 145,
+        "oldPrice": null,
+        "category": "hair",
+        "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=400",
+        "description": "زيت شعر طبيعي يغذي ويمنع التساقط",
+        "inStock": true,
+        "stock": 30,
+        "rating": 4.8,
+        "reviews": 95,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 195,
+    "id": "1771601809413",
+    "status": "confirmed",
+    "createdAt": "2026-02-20T15:36:49.413Z",
+    "updatedAt": "2026-02-20T23:44:07.032Z"
+  },
+  {
+    "customerName": "عمرو",
+    "phone": "01270881291",
+    "address": "الحي السادس للفلااا",
+    "details": "ال",
+    "items": [
+      {
+        "id": "1771531422230",
+        "name": "ماسك بالفحم ",
+        "nameEn": "",
+        "price": 50,
+        "oldPrice": 90,
+        "category": "hair",
+        "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?w=400",
+        "description": "",
+        "inStock": true,
+        "stock": 1,
+        "rating": 0,
+        "reviews": 0,
+        "createdAt": "2026-02-19T20:03:42.231Z",
+        "quantity": 1
+      },
+      {
+        "id": "3",
+        "name": "ماسك شعر أرغان",
+        "nameEn": "Argan Hair Mask",
+        "price": 210,
+        "oldPrice": 250,
+        "category": "hair",
+        "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?w=400",
+        "description": "ماسك عميق الترطيب للشعر الجاف والمتقصف",
+        "inStock": true,
+        "stock": 25,
+        "rating": 4.3,
+        "reviews": 67,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 260,
+    "id": "1771604093168",
+    "status": "confirmed",
+    "createdAt": "2026-02-20T16:14:53.168Z",
+    "updatedAt": "2026-02-21T00:15:35.286Z"
+  },
+  {
+    "customerName": "عملت",
+    "phone": "01270881291",
+    "address": "ابلتفباابببي",
+    "details": "اتتت",
+    "items": [
+      {
+        "id": "1771531422230",
+        "name": "ماسك بالفحم ",
+        "nameEn": "",
+        "price": 50,
+        "oldPrice": 90,
+        "category": "hair",
+        "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?w=400",
+        "description": "",
+        "inStock": true,
+        "stock": 1,
+        "rating": 0,
+        "reviews": 0,
+        "createdAt": "2026-02-19T20:03:42.231Z",
+        "quantity": 1
+      },
+      {
+        "id": "2",
+        "name": "زيوت للشعر متعددة",
+        "nameEn": "Multi Hair Oil",
+        "price": 145,
+        "oldPrice": null,
+        "category": "hair",
+        "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=400",
+        "description": "زيت شعر طبيعي يغذي ويمنع التساقط",
+        "inStock": true,
+        "stock": 30,
+        "rating": 4.8,
+        "reviews": 95,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 195,
+    "id": "1771630957395",
+    "status": "cancelled",
+    "createdAt": "2026-02-20T23:42:37.395Z",
+    "updatedAt": "2026-02-21T00:15:16.546Z"
+  },
+  {
+    "customerName": "غماتز",
+    "phone": "01270881291",
+    "address": "اتنتثفتتلب",
+    "details": "",
+    "items": [
+      {
+        "id": "1771531422230",
+        "name": "ماسك بالفحم ",
+        "nameEn": "",
+        "price": 50,
+        "oldPrice": 90,
+        "category": "hair",
+        "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?w=400",
+        "description": "",
+        "inStock": true,
+        "stock": 1,
+        "rating": 0,
+        "reviews": 0,
+        "createdAt": "2026-02-19T20:03:42.231Z",
+        "quantity": 1
+      },
+      {
+        "id": "2",
+        "name": "زيوت للشعر متعددة",
+        "nameEn": "Multi Hair Oil",
+        "price": 145,
+        "oldPrice": null,
+        "category": "hair",
+        "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=400",
+        "description": "زيت شعر طبيعي يغذي ويمنع التساقط",
+        "inStock": true,
+        "stock": 30,
+        "rating": 4.8,
+        "reviews": 95,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 195,
+    "id": "1771631010578",
+    "status": "confirmed",
+    "createdAt": "2026-02-20T23:43:30.578Z",
+    "updatedAt": "2026-02-21T00:14:59.179Z"
+  },
+  {
+    "customerName": "Diaa Elkhouly",
+    "phone": "01201449924",
+    "address": "Ashmun, Monofyia",
+    "details": "",
+    "items": [
+      {
+        "id": "6",
+        "name": "غسول للوجه",
+        "nameEn": "Face Wash",
+        "price": 125,
+        "oldPrice": null,
+        "category": "skin",
+        "image": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?w=400",
+        "description": "غسول وجه لطيف ينظف بعمق",
+        "inStock": true,
+        "stock": 60,
+        "rating": 4.4,
+        "reviews": 89,
+        "quantity": 1
+      },
+      {
+        "id": "7",
+        "name": "لوشن للجسم",
+        "nameEn": "Body Lotion",
+        "price": 165,
+        "oldPrice": 195,
+        "category": "body",
+        "image": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=400",
+        "description": "لوشن مرطب للجسم بفيتامن إي",
+        "inStock": true,
+        "stock": 75,
+        "rating": 4.7,
+        "reviews": 134,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 290,
+    "id": "1771633414925",
+    "status": "pending",
+    "createdAt": "2026-02-21T00:23:34.925Z"
+  }
+]

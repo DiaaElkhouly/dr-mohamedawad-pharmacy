@@ -1,0 +1,33 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow admin routes
+Disallow: /dashboard
+Disallow: /api/admin
+Disallow: /api/orders
+Disallow: /api/push
+
+# Sitemap
+Sitemap: https://dr-mohamedawad-pharmacy.com/sitemap.xml
+
+# Crawl-delay (optional, for respectful crawling)
+Crawl-delay: 1
+
+# Googlebot specific rules
+User-agent: Googlebot
+Allow: /
+Disallow: /dashboard
+Disallow: /api/
+
+# Bingbot specific rules
+User-agent: Bingbot
+Allow: /
+Disallow: /dashboard
+Disallow: /api/
+
+# Slurp (Yahoo)
+User-agent: Slurp
+Allow: /
+Disallow: /dashboard
+Disallow: /api/
