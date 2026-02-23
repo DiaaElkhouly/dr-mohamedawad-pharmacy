@@ -158,9 +158,15 @@ self.addEventListener("notificationclick", (event) => {
 
 // Fetch event - serve from cache or network
 self.addEventListener("fetch", (event) => {
-  // Skip non-GET requests and API calls
+  // Skip non-GET requests
   if (event.request.method !== "GET") return;
+
+  // Skip API calls
   if (event.request.url.includes("/api/")) return;
+
+  // Skip external URLs (requests to other domains) - don't cache external resources
+  const url = new URL(event.request.url);
+  if (url.origin !== self.location.origin) return;
 
   event.respondWith(
     caches.match(event.request).then((cachedResponse) => {
